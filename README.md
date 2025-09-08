@@ -1,7 +1,6 @@
 # VScode-extensions
 1. Material Icon Theme
-[https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Material%20Icon%20Theme1.png?raw=true
-](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Material%20Icon%20Theme1.png?raw=true)
+   ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Material%20Icon%20Theme1.png?raw=true)
    按ctrl+shift+P，輸入Material Icons
 
 "material-icon-theme.folders.color": "#ef5350",
