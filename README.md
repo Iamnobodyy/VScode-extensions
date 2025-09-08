@@ -3,6 +3,7 @@
    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Material%20Icon%20Theme1.png?raw=true)
 
 使用方式
+   
    按ctrl+shift+P，輸入Material Icons
    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Material%20Icon%20Theme2.png?raw=true)
 "material-icon-theme.folders.color": "#ef5350",
