@@ -1,4 +1,4 @@
-# VScode-extensions 小郭的分享以及懶人包
+# VScode-extensions之小郭的分享以及懶人包
 1. Material Icon Theme
    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Material%20Icon%20Theme1.png?raw=true)  
    使用方式：  
@@ -22,7 +22,7 @@
    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/backgroound2.png?raw=true)  
    這是我的背景：  
    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/backgroound3.png?raw=true)  
-   程式碼（一樣貼在setting.json）：  
+   程式碼（一樣貼在setting.json），長度、寬度以及透明度看自己需求調整：  
        "background.enabled": true,  
     "background.useDefault": false,  
     "background.customImages": [  
@@ -78,7 +78,7 @@
 
 8. Path Autocomplete  
    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Path%20Autocomplete1.png?raw=true)  
-   可以直接點資料夾or檔案，不需要複製路徑  
+   打"/"後就可以用點擊資料夾or檔案的方式寫上你要的檔案，不需要複製路徑再貼上  
    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Path%20Autocomplete2.png?raw=true)  
    程式碼（setting.json）：  
    "path-autocomplete.pathMappings": {  
@@ -115,4 +115,6 @@
     ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Rainbow%20CSV1.png?raw=true)  
     將CSV檔的每一行用不同顏色區分，之前機器學習很常用到，如果你不常用到可以略過  
     結果：  
-    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Rainbow%20CSV2.png?raw=true)
+    ![image](https://github.com/Iamnobodyy/VScode-extensions/blob/main/images/Rainbow%20CSV2.png?raw=true)  
+
+    注意：所有要貼上setting.json的程式碼都要貼在.json檔內的"大括號"裡
